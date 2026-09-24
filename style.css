@@ -67,11 +67,10 @@ nav a {
     background-image: url("bg\ image.jpg");
     background-size: cover;
     background-position: center;
-
     display: flex;
     align-items: center;
-    padding-left: 800px;
-    
+    justify-content: center;
+    text-align: center;
 }
 
 .banner h2 {
